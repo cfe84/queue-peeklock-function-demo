@@ -1,0 +1,7 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "azure-storage": "^2.1.0"
+  }
+}
